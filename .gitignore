@@ -1,0 +1,15 @@
+# Virtual environment — hundreds of files, not yours to share
+venv/
+
+# Secret keys — NEVER commit this
+.env
+
+# Python cache files — auto-generated, not useful to others
+__pycache__/
+*.pyc
+
+# Output files — generated at runtime, not source code
+output/
+
+# macOS metadata file
+.DS_Store
